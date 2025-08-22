@@ -6,7 +6,15 @@
 ## Folder Structure
 
 <!-- TREE_START -->
-
+```
+├── Dataset
+│   └── spam.csv
+├── Email Spam Detection.ipynb
+├── README.md
+├── requirements.txt
+├── setup.bat
+└── update_tree.py
+```
 <!-- TREE_END -->
 
 
