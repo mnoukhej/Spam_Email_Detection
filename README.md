@@ -1,4 +1,4 @@
-# project
+# 📁 Spam Email Detection
 
 ## Project Overview
 
